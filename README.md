@@ -12,6 +12,13 @@
 
 ---
 
+
+## צילום מסך
+
+<p align="center">
+  <img src="assets/screenshot-main.png" alt="שידוכים — מסך ראשי" width="880" />
+</p>
+<p align="center"><em>מסך ראשי — כרטיסים, חיפוש והתאמות</em></p>
 ## הורדה
 
 1. עברו ל־[**Releases**](https://github.com/ycohen888/shidduchim/releases/latest)
