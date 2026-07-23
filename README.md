@@ -1,6 +1,9 @@
 # שידוכים — תוכנת שדכן ל־Windows
 
 <p align="center">
+  <img src="assets/logo.png" alt="שידוכים" width="120" />
+</p>
+<p align="center">
   <strong>תוכנת דסקטופ לניהול כרטיסי שידוכים · חינמית · עברית</strong><br/>
   מאת יוסי כהן / <a href="https://servxx.com">servxx.com</a> · 051-5001481
 </p>
