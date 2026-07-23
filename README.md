@@ -161,7 +161,7 @@ servxx מפתחת תוכנות דסקטופ, אתרים ומערכות בהזמ�
 
 This repository distributes the **installer only** (no source code).
 
-Features: full candidate cards + photos, search/filters, match scoring, compare view, PDF export, meetings workflow, freeze, bidirectional website sync (profile + lock/status). Local data under `%AppData%\shidduchim\`.
+Features: full candidate cards + photos, search/filters, match scoring, compare view, PDF export, meetings workflow, freeze, bidirectional website sync (profile + lock/status).
 
 Provided **AS IS**, free of charge. See [LICENSE](LICENSE).  
 Contact: [servxx.com](https://servxx.com) · ycohen888@gmail.com · 051-5001481
